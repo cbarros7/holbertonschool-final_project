@@ -72,5 +72,12 @@ When it comes to the **CREDIT_LIMIT** variable, it has a mean of **4522.09 USD**
 <br>
 
 
+
+## Annotations :loudspeaker:
+
+
+This [article](./CUSTOMER%20SEGMENTATION%20MODEL%20BASED%20ON%20CREDIT%20CARDS%20BEHAVIOR.pdf) describes the overall project, methods, main findings, conclusions and recommendations for future work. 
+
+
 ## Authors :black_nib:
 * **Carlos Barros** [Github](https://github.com/cbarros7), [LinkdIn](https://www.linkedin.com/in/carlosbarros7/)
